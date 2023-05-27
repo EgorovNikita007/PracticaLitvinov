@@ -1,0 +1,14 @@
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\bin\Debug\netcoreapp3.1\ConsoleAppPR9.exe
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\bin\Debug\netcoreapp3.1\ConsoleAppPR9.deps.json
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\bin\Debug\netcoreapp3.1\ConsoleAppPR9.runtimeconfig.json
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\bin\Debug\netcoreapp3.1\ConsoleAppPR9.runtimeconfig.dev.json
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\bin\Debug\netcoreapp3.1\ConsoleAppPR9.dll
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\bin\Debug\netcoreapp3.1\ConsoleAppPR9.pdb
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.csproj.AssemblyReference.cache
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.AssemblyInfoInputs.cache
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.AssemblyInfo.cs
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.dll
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.pdb
+C:\Users\Zalman\source\repos\ConsoleAppPR9\ConsoleAppPR9\obj\Debug\netcoreapp3.1\ConsoleAppPR9.genruntimeconfig.cache
